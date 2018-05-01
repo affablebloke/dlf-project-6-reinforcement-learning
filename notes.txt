@@ -1,0 +1,23 @@
+## Reinforcement Learning Notes:
+
+* Model-Based Learning (Dynamic Programming)
+  * Value Iteration
+  * Policy Iteration
+  * https://s3-us-west-1.amazonaws.com/udacity-dlnfd/suttonbookdraft2018jan1.pdf
+  * Chapters 4.1 - 4.3
+* Model-Free Learning (Dynamic Programming)
+  * Monte Carlo Methods
+  * Temporal-Difference Learning
+* RL in Continous Spaces
+  * Deep Q-Learning (Value Based) / SARSA
+    * These algorithms use maximization. Doesn't work in continuous spaces. 
+  * Policy Gradients (Policy Based)
+  * Actor-Critic Methods (Best of Both Worlds)
+  * 2 ways to handle Continuous Spaces. Discretization and Function Approximation
+* Watch David Silver's, from DeepMind, [reinforcement learning lecture series](https://www.youtube.com/watch?v=2pWv7GOvuf0&list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ)
+  * Lecture 7: Policy Gradient Methods
+* Research the latest trends on Deep Reinforcement Learning
+* http://pemami4911.github.io/blog/2016/08/21/ddpg-rl.html
+
+## Asset files
+* https://github.com/udacity/RoboND-QuadRotor-Unity-Simulator
